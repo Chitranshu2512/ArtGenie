@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is a AI based image generator application that uses the DALLE api to generate the promted image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chitranshu Kushwaha",
+  "license": "ISC"
+}
